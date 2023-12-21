@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varshitha</h1>
 <h3 align="center">A passionate frontend developer from Hyderabad,India.</h3>
 
-- 🌱 I’m currently learning **Backend Development and Problem solving Skills**
+- 🌱 I’m currently learning **FullStack Development and Problem solving Skills**
 
 - 📫 How to reach me **varshithab05@gmail.com**
 
